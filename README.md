@@ -16,7 +16,7 @@ You can then select a visualization and your default browser will open with the 
 
 ## Note
 
-Please refer to the `Rendu.docx` for more information's about the project.
+Please refer to the `Rendu.pdf` for more information's about the project.
 
 ## Authors
 
